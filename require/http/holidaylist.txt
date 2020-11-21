@@ -1,0 +1,1 @@
+http://www.kayaposoft.com/enrico/json/v1.0/index.php?action=getPublicHolidaysForYear&year=2016&country=chn

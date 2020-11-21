@@ -1,0 +1,1 @@
+SELECT * FROM crm_message join crm_message_group on `crm_message`.`receiver_id` = `crm_message_group`.`group_id` join `crm_users` on `crm_message`.`sender_id` = `crm_users`.`email` where `crm_message`.`receiver_id` = '100000948' AND FIND_IN_SET('anwar.ali@ascent-bd.com', `crm_message_group`.`group_member`) order by `crm_message`.`time` DESC LIMIT 1

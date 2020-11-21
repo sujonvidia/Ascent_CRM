@@ -1,0 +1,15 @@
+SELECT cp.*, 
+            (SELECT full_name FROM crm_users WHERE ID = CreatedBy) as display_name, 
+            (SELECT img FROM crm_users WHERE ID = CreatedBy) as img, 
+            (SELECT img FROM crm_users WHERE ID = CreatedBy) as createdBy_img 
+            FROM crm_activity as cp 
+            LEFT JOIN crm_tagHD as ct ON cp.Id = ct.RelatedTo 
+            WHERE 
+            Workspaces='navigatedesign' 
+            AND cp.type = 'Project' 
+            AND cp.isDelete = '1'
+            AND cp.Enddate > '0000-00-00' AND cp.Startdate > '0000-00-00'
+            AND DATE_FORMAT(cp.Startdate, '%Y-%m-%d') >= '1000-01-01' 
+            AND DATE_FORMAT(cp.Enddate, '%Y-%m-%d') <= '9999-12-31'
+            GROUP BY cp.Id 
+            ORDER BY cp.Id DESC

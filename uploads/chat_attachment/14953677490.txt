@@ -1,0 +1,89 @@
+Therw are major type-
+
+1. chat
+
+2.coment
+ 2.1 task coment
+ 2.2 project coment
+ 2.3 todo comment
+
+3. notification
+
+
+
+............CHAT............
+
+type : "chatMsg"
+typeid : "691"
+TypeName : "Project"
+TypeTitle : "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+recever_id : "1"
+who : "Md. Mahfuzur Rahman"
+title : "Chat"
+detail : "Test msg from mahfuz"
+date : "2017-03-09 15:29:15"
+ID : "1636"
+replay_msg : null
+
+
+........... COMENT Task................
+
+type : "comment"
+typeCat : "TaskCmnt"
+typeid : "1090"
+TypeName : "Task"
+TypeTitle : "jjss"
+relatedTo : "1084"
+replay_msg : "test"
+who : "Demo User"
+title : "commented on Task : jj"
+detail : "test"
+date : "2017-04-04 11:37:34"
+
+
+
+.........COMENT PROJECT..............
+
+
+type : "comment"
+typeCat : "ProjectCmnt"
+typeid : "1059"
+TypeName : "Project"
+TypeTitle : "Test project @ 208"
+relatedTo : "171"
+replay_msg : null
+who : "Md. Mahfuzur Rahman"
+title : "commented on Project : Test project @ 208"
+detail : "test 705"
+date : "2017-03-28 19:01:41"
+
+
+
+.........COMENT TODO..............
+
+
+type : "comment"
+typeCat : "Todo"
+typeid : "195"
+TypeName : "Todo"
+TypeTitle : "Don’t hide on clicking group name"
+relatedTo : "95"
+replay_msg : null
+who : "Md. Mahfuzur Rahman"
+title : "commented on Todo : Don’t hide on clicking group name"
+detail : "Not clear "
+date : "2017-02-27 14:04:27"
+
+
+........Notification .................
+
+
+type : "notification"
+sp : "UnTag"
+typeid : "749"
+TypeName : "Project"
+TypeTitle : "testpro1s"
+who : "Mahfuz Hossain"
+detail : "You have been unassigned from the Project : testpro1s"
+date : "2017-03-12 15:19:49"
+

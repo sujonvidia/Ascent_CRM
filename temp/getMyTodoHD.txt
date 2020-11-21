@@ -1,0 +1,34 @@
+SELECT  (SELECT GROUP_CONCAT(ctag.userid) 
+       FROM crm_tagHD ctag 
+       WHERE ctag.`RelatedTo` = pt.Id and ctag.UserStatus = 2
+       GROUP BY pt.Id 
+       ) AS mem_ids,
+       GROUP_CONCAT(ctag.`UserStatus`) as UserStatus,
+       pt.*,cr.*,cat.*,ccd.*,ctag.`status_chat`,ctag.`status_attach`,
+       ctag.userid as tag_userid,
+       GROUP_CONCAT(DISTINCT ce.date ORDER BY ce.date asc SEPARATOR ';') as recur_exceptions, 
+       GROUP_CONCAT(DISTINCT ca.type SEPARATOR ';') as alarm_type,
+       GROUP_CONCAT(ca.`repeat` SEPARATOR ';') as alarm_repeat,
+       GROUP_CONCAT(ca.options SEPARATOR 0x1D) as alarm_option,
+       GROUP_CONCAT(ctag.userid) as tag_ids,
+
+       pt.`Type` as type,
+       cusr.full_name as creator_name,
+       pt.`Startdate` as start,
+       pt.`Enddate` as end,
+       pt.`Title` as title,
+       pt.`Priority` as priority,
+       pt.`Id` as cal_id
+
+       FROM crm_activity AS pt 
+       left join crm_tagHD ctag on ctag.RelatedTo = pt.Id 
+       left join calendar_exception ce on ce.post_id=pt.Id
+       left join calendar_recur cr on cr.post_id=pt.Id
+       left join calendar_alarm ca on ca.post_id=pt.Id
+       left join crm_category cat on cat.id=pt.HasCategoryId
+       left join crm_users cusr on cusr.ID=pt.CreatedBy
+       left join crm_contactdetails ccd on ccd.contactid=pt.HasClient
+
+       WHERE (pt.`Type` = 'Todo' AND pt.`Workspaces`= 'navigatedesign') 
+       AND (pt.`CreatedBy` = '198' OR ctag.`userid` = '198') GROUP BY pt.Id 
+       ORDER BY pt.`CreatedDate` DESC

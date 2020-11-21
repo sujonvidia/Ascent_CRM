@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>jQuery countid Plugin Demos</title>
+<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+</head>
+
+<body>
+<div class="container well" style="margin-top:150px;">
+<h2>Clocks</h2>
+<h3 class='timer element'></h3>
+<hr>
+<h3 class='timer2 element'></h3>
+<hr>
+<h3 class='timer3 element'></h3>
+</div>
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="countid.js"></script>
+<script>
+<!-- $('.demo-1,.demo-2').countid(); -->
+Date.prototype.addSeconds= function(h){
+    this.setSeconds(this.getSeconds()+h);
+    return this;
+}
+var date = new Date() / 1000
+
+$('.timer').countid({
+	clock: true,
+	dateTime: date,
+	dateTplRemaining: "%S seconds to complete timer",
+	dateTplElapsed: "%S seconds elapsed since the timer completion",
+	complete: function( el ){
+		el.css({ 'color': 'red'})
+	}
+})
+
+$('.timer2').countid({
+	clock: true,
+	dateTime: date,
+	dateTplRemaining: "%H:%M:%S",
+	dateTplElapsed: "%H:%M:%S",
+	complete: function( el ){
+		el.animate({ 'font-size': '50px'})
+	}
+})
+
+$('.timer3').countid({
+	clock: true,
+	dateTime: date,
+	dateTplElapsed: "%Y years<br>%O months<br>%D days<br>%H hours<br>%M minutes<br>%S seconds<br> since establishing Slovak Republic",
+})
+</script>
+</body>
+</html>

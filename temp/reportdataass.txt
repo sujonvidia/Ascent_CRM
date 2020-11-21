@@ -1,0 +1,18 @@
+SELECT pt.*,
+        (SELECT GROUP_CONCAT(DISTINCT cuser2.display_name) FROM crm_tagHD ctag2
+        left join crm_users cuser2 on ctag2.userid = cuser2.Id 
+        where ctag2.RelatedTo = pt.Id) tag_names
+        
+        FROM crm_activity AS pt 
+        left join crm_tagHD ctag on ctag.RelatedTo = pt.Id
+        left join crm_users cuser on ctag.userid = cuser.Id 
+
+        WHERE (DATE_FORMAT(pt.`Startdate`, '%Y-%m-%d') < '2017-07-30' 
+        AND DATE_FORMAT(pt.`Enddate`, '%Y-%m-%d') >= '2017-05-01' 
+        AND pt.`Startdate` > '0000-00-00' 
+        AND pt.`Enddate` > '0000-00-00')
+        AND (pt.`Type` = 'Project')
+        AND ctag.`userid` in (1,2)
+        AND (pt.`Workspaces` = 'itl') 
+        GROUP BY pt.Id
+        

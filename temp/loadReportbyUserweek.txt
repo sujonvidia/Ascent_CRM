@@ -1,0 +1,10 @@
+SELECT pt.Title taskTitle,ptsub.Title subtaskTitle,pt.Enddate,
+      (SELECT GROUP_CONCAT(DISTINCT cuser2.display_name) FROM crm_tagHD ctag2
+        left join crm_users cuser2 on ctag2.userid = cuser2.Id 
+        where ctag2.RelatedTo = pt.Id) tag_names
+
+      FROM crm_activity pt
+      left join crm_activity ptsub on pt.Id = ptsub.HasParentId
+      where pt.HasParentId='946' and pt.Status <> 'completed'
+      and pt.Enddate < DATE_ADD(CURDATE(),INTERVAL 7 DAY)
+      AND pt.Enddate > '0000-00-00'

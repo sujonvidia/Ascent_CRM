@@ -1,0 +1,130 @@
+[
+	{
+		"title":"Shab-e-Quader",
+		"start":"2015-07-15 00:00:00",
+		"end":"2020-07-15 23:59:59",
+		"duration":"a day"
+		
+	},
+	{
+		"title":"Jumatul-bida",
+		"start":"2015-07-17 00:00:00",
+		"end":"2020-07-15 23:59:59",
+		"duration":"a day"
+		
+	},
+	{
+		"title":"Eid-ul-Fitr",
+		"start":"2015-07-17 00:00:00",
+		"duration":"3 days",
+		"end":"2020-07-15 23:59:59"
+		
+	},
+	{"title":"National Mourning Day",
+		"start":"2015-08-15 00:00:00",
+		"end":"2020-07-15 23:59:59",
+		"duration":"a day"
+		
+		
+	},
+	{"title":"Jonmashtomi",
+		"start":"2015-09-05 00:00:00",
+		"end":"2020-07-15 23:59:59",
+		"duration":"a day"
+		
+		
+	},
+	{"title":"Eid-ul-Azha",
+		"start":"2015-09-24 00:00:00",
+		"end":"2020-07-15 23:59:59",
+		"duration":"3 days"
+		
+		
+	},
+	{ "title":"Durga Puja",
+		"start":"2015-10-23 00:00:00",
+		"end":"2020-07-15 23:59:59",
+		"duration":"a day"
+		
+		
+	},
+	{"title":"Ashura",
+		"start":"2015-10-24 00:00:00",
+		"end":"2020-07-15 23:59:59",
+		"duration":"a day"
+		
+		
+	},
+	
+	{"title":"Victory Day",
+		"start":"2015-12-16 00:00:00",
+		"end":"2020-07-15 23:59:59",
+		"duration":"a day"
+		
+	},
+	{"title":"Eid-a-Miladun Nabi",
+	"start":"2015-12-24 00:00:00",
+	"end":"2020-07-15 23:59:59",
+	"duration":"a day"
+	
+	
+	},
+	{"title":"Christmas",
+	"start":"2015-12-25 00:00:00",
+	"end":"2020-07-15 23:59:59",
+	"duration":"a day"
+	},
+	{"title":"Akheri Munajat",
+	"start":"2015-01-10 00:00:00",
+	
+	"end":"2020-07-15 23:59:59",
+	"duration":"a day"
+	
+	},
+	{"title":"International Mother Language Day",
+	"start":"2015-02-21 00:00:00",
+	"end":"2020-07-15 23:59:59",
+	"duration":"a day"
+	
+	
+	},
+	{ "title":"Birthday of Bangabhandu",
+	"start":"2015-03-17 00:00:00",
+	"end":"2020-07-15 23:59:59",
+	"duration":"a day"
+	
+	
+	},
+	{"title":"Independence Day",
+	"start":"2015-03-26 00:00:00",
+	"end":"2020-07-15 23:59:59",
+	"duration":"a day"
+	
+	
+	},
+	{"title":"Pahela Boishakh",
+	"start":"2015-04-14 00:00:00",
+	"end":"2020-07-15 23:59:59",
+	"duration":"a day"
+	
+	
+	},
+	{"title":"May Day",
+	"start":"2015-05-01 00:00:00",
+	"end":"2020-07-15 23:59:59",
+	"duration":"a day"
+	
+	
+	},
+	{"title":"Buddha Purnima",
+	"start":"2015-05-21 00:00:00",
+	"end":"2020-07-15 23:59:59",
+	"duration":"a day"
+	
+	},
+	{"title":"Shab-e-Barat",
+	"start":"2015-05-21 00:00:00",
+	"end":"2020-07-15 23:59:59",
+	"duration":"a day"
+	}
+]	

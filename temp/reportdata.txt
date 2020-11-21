@@ -1,0 +1,15 @@
+SELECT  pt.*,
+        cuser_ad.display_name admin_name,
+        GROUP_CONCAT(DISTINCT cuser_coad.display_name) coadmin_name,
+        GROUP_CONCAT(DISTINCT cuser_mem.display_name) member_name
+        
+        FROM crm_activity AS pt 
+        left join crm_tagHD ctag_coad on ctag_coad.RelatedTo = pt.Id and ctag_coad.UserStatus = 1
+        left join crm_tagHD ctag_mem on ctag_mem.RelatedTo = pt.Id and ctag_mem.UserStatus = 2
+        left join crm_users cuser_coad on ctag_coad.userid = cuser_coad.Id 
+        left join crm_users cuser_mem on ctag_mem.userid = cuser_mem.Id 
+        left join crm_users cuser_ad on pt.CreatedBy = cuser_ad.Id 
+
+        WHERE (pt.`Id` = '949')
+        
+        GROUP BY pt.Id

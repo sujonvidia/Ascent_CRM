@@ -1,0 +1,26 @@
+SELECT GROUP_CONCAT(DISTINCT ce.date ORDER BY ce.date asc SEPARATOR ';') as recur_exceptions, 
+        GROUP_CONCAT(DISTINCT ca.type SEPARATOR ';') as alarm_type,
+        GROUP_CONCAT(ca.repeat SEPARATOR ';') as alarm_repeat,
+        GROUP_CONCAT(ca.options SEPARATOR 0x1D) as alarm_option,
+        GROUP_CONCAT(ctag.userid) as tag_ids,
+        pt.`Type` as type,
+        
+        pt.*,cr.*,
+        pt.`Startdate` as start,
+        pt.`Enddate` as end,
+        pt.`Title` as title,
+        pt.`Priority` as priority,
+        '#6A5A8C' as backgroundColor,
+        pt.`Id` as cal_id
+        FROM crm_activity AS pt 
+        left join crm_tagHD ctag on ctag.RelatedTo = pt.Id and ctag.Type = 'Project'
+        left join calendar_exception ce on ce.post_id=pt.Id
+        left join calendar_recur cr on cr.post_id=pt.Id
+        left join calendar_alarm ca on ca.post_id=pt.Id
+
+        WHERE 
+        
+        (pt.`Type` = 'Project')
+        AND (pt.`CreatedBy` = '2') 
+        AND (pt.`Workspaces` = 'itl') 
+        GROUP BY pt.Id

@@ -1,0 +1,12 @@
+SELECT cmsg.msg as Title,
+        cmsg.time as CreatedDate,
+        cusr.display_name as senderName,
+        cusr2.display_name as receiverName
+
+        FROM crm_message AS cmsg 
+        left join crm_users cusr on cusr.email = cmsg.sender_id
+        left join crm_users cusr2 on cusr2.email = cmsg.receiver_id
+        
+        WHERE cmsg.`receiver_id` = 'anwar.ali@navigategroup.com'
+        AND cmsg.`sender_id`= 'sadequr_rahman@imaginebd.com'
+        

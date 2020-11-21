@@ -1,0 +1,12 @@
+SELECT cmsg.msg as Title,
+        cmsg.time as CreatedDate,
+        cusr.display_name as senderName,
+        cgrp.group_name as receiverName
+
+        FROM crm_message AS cmsg 
+        left join crm_users cusr on cusr.email = cmsg.sender_id
+        left join crm_message_group cgrp on cgrp.group_id = cmsg.receiver_id 
+        
+        WHERE cmsg.`receiver_id` = '2'
+        AND cmsg.`sender_id`= 'mahfuz_hossain@imaginebd.com'
+        

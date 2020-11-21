@@ -1,0 +1,316 @@
+.taskRow .btn {
+    background-color: #ffffff;
+    color: #0a0a0a;
+    font-weight: bold;
+    border: 1px solid #2291f1;
+}
+.tagbtnDivclass .btn {
+
+    background-color: #fafafa;
+    border: 2px solid #2291f1;
+    font-weight: bold;
+}
+#ribbon .breadcrumb a:hover {
+
+    color: #0a0a0a !important;
+}
+#ribbon .breadcrumb, #ribbon .breadcrumb li {
+    /*background-color: white;*/
+}
+#leftFloat {
+    background-color: #e2e2e2;
+    color: #3f82bb;
+
+}
+#leftFloat:hover {
+    background-color: #ccc;
+}
+/*li.select2-selection__choice {
+    background-color: white !important;
+    color: black !important;
+    font-weight: bold;
+}*/
+.proDiv .panel .btn {
+    background-color: #fafafa !important;
+    color: #0a0a0a;
+    border: 1px solid #2291f1 !important;
+    font-weight: bold;
+}
+span.btn.btn-primary.btn-circle.customBtnClr {
+    background-color: #fafafa !important;
+    color: #0a0a0a;
+    border: 2px solid #c7c7c7 !important;
+    font-weight: bold;
+
+}
+.projectfilefDiv .btn {
+    background-color: #ffffff;
+    color: #0a0a0a;
+    font-weight: bold;
+    border: 1px solid #2291f1;
+
+
+}
+div#updateRefresh {
+    margin-top: -7px;
+    background-color: transparent;
+}
+/*li.addmore {
+
+    background: #ddd;
+    border-radius: 50%;
+    border: 4px solid #3879D9;
+    font-weight: bold;
+    
+
+}*/
+#myProjectDivList {
+    margin-top: 30px;
+}
+/*#open_newpro1:hover{
+    opacity: 1;
+    -webkit-animation: flash 1.5s;
+    animation: flash 1.5s;
+}*/
+/*Create plus button*/
+/*i.fa.fa-plus {
+    border: 2px solid #3276b1;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 7px;
+}*/
+/*.addmore a i.fa.fa-plus {
+    border: 3px solid #3276b1;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #fff;
+    padding: 8px;
+}*/
+.addmore a i.fa.fa-plus {
+    border: 3px solid #b1b2b3;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    padding: 5px;
+    margin-left: -15px;
+}
+#projectbtn{
+    padding: 7px;
+}
+.fa-ellipsis-h {
+    padding: 7px;
+}
+span#open_newpro1 i.fa.fa-plus {
+    border: 3px solid #b1b2b3;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    padding: 5px;
+    margin-left: 2px;
+    margin-top: 1px;
+}
+span#open_newpro1 i.fa.fa-plus:hover{
+
+    opacity: inherit;
+    box-shadow: 0px 0px 0px 4px rgba(137, 243, 255, 1);
+}
+li.addmore:hover{
+
+    background-color: transparent ;
+
+
+}
+.addmore a i.fa.fa-plus:hover{
+    opacity: inherit;
+    box-shadow: 0px 0px 0px 4px rgba(137, 243, 255, 1);
+}
+.pull-left .header-dropdown-list>li>.dropdown-toggle {
+    margin: 10px;
+    /* color: #000; */
+}
+.header-dropdown-list>li {
+
+    padding-right: 1px; 
+    padding-left: 5px;
+}
+.fadehover {
+    opacity: 1;  
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+}
+
+.fadehover:hover {
+
+    opacity: 0.5;
+    background-color:  aliceblue !important;
+
+}
+i.fa.fa-download {
+    margin-left: 0px;
+    margin-top: 2px;
+    background-color: #ffffff;
+    border: 3px solid #b1b2b3;
+    border-radius: 50%;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+}
+i.fa.fa-download:hover{
+
+    opacity: inherit;
+    box-shadow: 0px 0px 0px 4px rgba(137, 243, 255, 1);  
+}
+.projectListDiv .contact-header {
+
+    margin-bottom: 40px;
+}
+
+#open_newpro1 {
+    position: relative;
+    margin-left: 1px;
+    margin-top: 0px;
+    margin-right: 5px;
+}
+
+.margintop0 {
+    /* margin-top: 0%; */
+    position: relative;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+/*.smart-accordion-default.panel-group .panel-title a {
+    margin-top: -30px;
+    margin-left: 9px;
+}*/
+.smart-accordion-default.panel-group .panel+.panel {
+    margin-top: 15px;
+}
+/*=========  move placeholder to top on focus AND while typing ===========*/
+
+/*
+* { box-sizing:border-box; }
+
+ basic stylings ------------------------------------------ 
+body{ background:url(http://scotch.io/wp-content/uploads/2014/07/61.jpg); }
+.container 		{ 
+  font-family:'Roboto';
+  width:600px; 
+  margin:30px auto 0; 
+  display:block; 
+  background:#FFF;
+  padding:10px 50px 50px;
+}
+h2 		 { 
+  text-align:center; 
+  margin-bottom:50px; 
+}
+h2 small { 
+  font-weight:normal; 
+  color:#888; 
+  display:block; 
+}
+.footer 	{ text-align:center; }
+.footer a  { color:#53B2C8; }
+*/
+/* form starting stylings ------------------------------- */
+#newProjectForm .group 			  { 
+  position:relative; 
+  margin-bottom:45px; 
+  margin-top: 10px;
+}
+#newProjectForm input 				{
+  font-size:18px;
+  padding:10px 10px 10px 5px;
+  display:block;
+  width:100%;
+  
+ 
+}
+#newProjectForm input:focus{ outline:none; }
+
+/* LABEL ======================================= */
+#newProjectForm label 				 {
+  color:#999; 
+  font-size:18px;
+  font-weight:normal;
+  position:absolute;
+  pointer-events:none;
+  left:20px;
+  top:10px;
+  transition:0.2s ease all; 
+  -moz-transition:0.2s ease all; 
+  -webkit-transition:0.2s ease all;
+}
+
+/* active state */
+#newProjectForm input:focus ~ label, input:valid ~ label 		{
+  top:-23px;
+  left:60px;
+  font-size:14px;
+  color:#5264AE;
+}
+
+/* BOTTOM BARS ================================= 
+.bar 	{ position:relative; display:block; width:300px; }
+.bar:before, .bar:after 	{
+  content:'';
+  height:2px; 
+  width:0;
+  bottom:1px; 
+  position:absolute;
+  background:#5264AE; 
+  transition:0.2s ease all; 
+  -moz-transition:0.2s ease all; 
+  -webkit-transition:0.2s ease all;
+}
+.bar:before {
+  left:50%;
+}
+.bar:after {
+  right:50%; 
+}*/
+
+/* active state */
+#newProjectForm input:focus ~ .bar:before, input:focus ~ .bar:after {
+  width:50%;
+  left:-20px;
+}
+
+/* HIGHLIGHTER ================================== 
+.highlight {
+  position:absolute;
+  height:60%; 
+  width:100px; 
+  top:25%; 
+  left:0;
+  pointer-events:none;
+  opacity:0.5;
+}*/
+
+/* active state */
+#newProjectForm input:focus ~ .highlight {
+  -webkit-animation:inputHighlighter 0.3s ease;
+  -moz-animation:inputHighlighter 0.3s ease;
+  animation:inputHighlighter 0.3s ease;
+}
+
+/* ANIMATIONS ================ */
+@-webkit-keyframes inputHighlighter {
+	from { background:#5264AE; }
+  to 	{ width:0; background:transparent; }
+}
+@-moz-keyframes inputHighlighter {
+	from { background:#5264AE; }
+  to 	{ width:0; background:transparent; }
+}
+@keyframes inputHighlighter {
+	from { background:#5264AE; }
+  to 	{ width:0; background:transparent; }
+}
+

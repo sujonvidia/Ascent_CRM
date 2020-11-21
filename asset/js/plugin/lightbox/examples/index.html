@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bootstrap 3 Lightbox</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../dist/ekko-lightbox.css" rel="stylesheet">
+
+        <style type="text/css">
+            /* i like padding - you can ignore this css. see the actual css / less files in the repository for styling the gallery navigation */
+            div.row > div > div.row {
+                margin-bottom: 15px;
+            }
+
+            body {
+                padding-bottom: 50px;
+            }
+
+            div.top-header {
+                margin-bottom:100px;
+            }
+
+            h3.page-header {
+                margin-top: 50px;
+            }
+
+            figure {
+                position: relative;
+            }
+
+            figure figcaption {
+                font-size: 22px;
+                color: #fff;
+                text-decoration: none;
+                bottom: 10px;
+                right: 20px;
+                position: absolute;
+                background-color: #000;
+            }
+			code {
+				white-space: pre-wrap;       /* css-3 */
+				white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+				white-space: -pre-wrap;      /* Opera 4-6 */
+				white-space: -o-pre-wrap;    /* Opera 7 */
+				word-wrap: break-word;       /* Internet Explorer 5.5+ */
+			}
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+
+                    <div class="top-header">
+                        <h1 class="page-header">Lightbox for Bootstrap 3</h1>
+                      <p class="lead">Utilizes Bootstraps modal plugin to implement a lightbox gallery - <a href="https://github.com/ashleydw/lightbox">GitHub</a></p>
+                    Example #16: Remote content</div>
+<p>The Bootstrap modal originally allowed for remote loading, but this is to be removed in v4; this functionality demonstrates the work around.</p>
+					<p>Given a URL, that is not an image or video (including unforced types [see example 13]), load the content using jQuery load(). An image and video is given below as proof gallery.</p>
+					<div class="row">
+                        <div class="col-md-offset-1 col-md-10">
+                            <div class="row">
+                                <p class="col-sm-3"><a href="./remote/page1.html" data-title="Page 1" data-toggle="lightbox" data-parent="" data-gallery="remoteload">Open up local Page 1</a></p>
+                                <a href="http://41.media.tumblr.com/9d3e6a9c89a856a2ad0be3ab4ca598b2/tumblr_mrn3dc10Wa1r1thfzo4_1280.jpg" data-parent="" data-toggle="lightbox" data-gallery="remoteload" class="col-sm-3">
+                                    <img src="//41.media.tumblr.com/9d3e6a9c89a856a2ad0be3ab4ca598b2/tumblr_mrn3dc10Wa1r1thfzo4_1280.jpg" class="img-responsive">
+                                </a>
+								<p class="col-sm-3"><a href="./remote/page2.html" data-title="Page 2" data-toggle="lightbox" data-parent="" data-gallery="remoteload">Open up local Page 2</a></p>
+                                <a href="http://vimeo.com/80629469" data-remote="http://player.vimeo.com/video/80629469" data-toggle="lightbox" data-parent="" data-gallery="remoteload" class="col-sm-3">
+                                    <img src="//b.vimeocdn.com/ts/458/070/458070637_200.jpg" class="img-responsive">
+                                </a>
+                            </div>
+                            <div class="row">
+                                <p class="col-sm-3"><a href="http://news.bbc.co.uk" data-title="BBC News - not responsive" data-toggle="lightbox" data-parent="" data-gallery="remoteload">Open up BBC news</a></p>
+                                <a href="http://vimeo.com/80629469" data-remote="http://player.vimeo.com/video/80629469" data-toggle="lightbox" data-parent="" data-gallery="remoteload" class="col-sm-3">
+                                    <img src="//b.vimeocdn.com/ts/458/070/458070637_200.jpg" class="img-responsive">
+                                </a>
+								<p class="col-sm-3"><a href="http://getbootstrap.com" data-title="Bootstrap - Responsive" data-toggle="lightbox" data-parent="" data-gallery="remoteload">Open up Bootstrap</a></p>
+                                <a href="http://41.media.tumblr.com/9d3e6a9c89a856a2ad0be3ab4ca598b2/tumblr_mrn3dc10Wa1r1thfzo4_1280.jpg" data-toggle="lightbox" data-parent="" data-gallery="remoteload" class="col-sm-3">
+                                    <img src="//41.media.tumblr.com/9d3e6a9c89a856a2ad0be3ab4ca598b2/tumblr_mrn3dc10Wa1r1thfzo4_1280.jpg" class="img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <h3 class="page-header" id="navigateTo">Example #17: navigateTo</h3>
+					<p>Must be setup programatically to run the setup (view the source of this page)</p>
+					<div class="row">
+                        <div class="col-md-offset-2 col-md-8">
+                            <div class="row">
+                                <a href="http://41.media.tumblr.com/f37ac708134914c471073e4c0b47328d/tumblr_mrn3dc10Wa1r1thfzo8_1280.jpg" data-toggle="lightbox" data-gallery="navigateTo" data-footer="Click <a href='#'>here</a> to jump to image 3" class="col-sm-4">
+                                    <img src="//41.media.tumblr.com/f37ac708134914c471073e4c0b47328d/tumblr_mrn3dc10Wa1r1thfzo8_1280.jpg" class="img-responsive">
+                                </a>
+                                <a href="http://41.media.tumblr.com/838b44224e39c30cd43490deb11b919d/tumblr_mrn3dc10Wa1r1thfzo1_1280.jpg" data-toggle="lightbox" data-gallery="navigateTo" class="col-sm-4">
+                                    <img src="//41.media.tumblr.com/838b44224e39c30cd43490deb11b919d/tumblr_mrn3dc10Wa1r1thfzo1_1280.jpg" class="img-responsive">
+                                </a>
+                                <a href="http://41.media.tumblr.com/e06a3513b0b36843f54bee99aeac689a/tumblr_mrn3dc10Wa1r1thfzo2_1280.jpg" data-toggle="lightbox" data-gallery="navigateTo" class="col-sm-4">
+                                    <img src="//41.media.tumblr.com/e06a3513b0b36843f54bee99aeac689a/tumblr_mrn3dc10Wa1r1thfzo2_1280.jpg" class="img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <script src="//code.jquery.com/jquery.js"></script>
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+        <script src="../dist/ekko-lightbox.js"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function ($) {
+                // delegate calls to data-toggle="lightbox"
+                $(document).delegate('*[data-toggle="lightbox"]:not([data-gallery="navigateTo"])', 'click', function(event) {
+                    event.preventDefault();
+                    return $(this).ekkoLightbox({
+                        onShown: function() {
+                            if (window.console) {
+                                return console.log('Checking our the events huh?');
+                            }
+                        },
+						onNavigate: function(direction, itemIndex) {
+                            if (window.console) {
+                                return console.log('Navigating '+direction+'. Current item: '+itemIndex);
+                            }
+						}
+                    });
+                });
+
+                //Programatically call
+                $('#open-image').click(function (e) {
+                    e.preventDefault();
+                    $(this).ekkoLightbox();
+                });
+                $('#open-youtube').click(function (e) {
+                    e.preventDefault();
+                    $(this).ekkoLightbox();
+                });
+
+				// navigateTo
+                $(document).delegate('*[data-gallery="navigateTo"]', 'click', function(event) {
+                    event.preventDefault();
+                    return $(this).ekkoLightbox({
+                        onShown: function() {
+
+							var a = this.modal_content.find('.modal-footer a');
+							if(a.length > 0) {
+
+								a.click(function(e) {
+
+									e.preventDefault();
+									this.navigateTo(2);
+
+								}.bind(this));
+
+							}
+
+                        }
+                    });
+                });
+
+
+            });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,565 @@
+"Task ID","Created At","Completed At","Last Modified",Name,Assignee,"Due Date",Tags,Notes,Projects,"Parent Task"
+228,2017-02-27,1970-01-01,1970-01-01,"update project title from breadcum title",Dipok,2017-02-27,,,,
+774,2017-03-09,1970-01-01,1970-01-01,"project tile update from title bar",Dipok,2017-03-09,,,,
+251,2017-02-27,1970-01-01,1970-01-01,"close loading on right side",Dipok,2017-02-27,,,,
+252,2017-02-27,1970-01-01,1970-01-01,"make closer task and subtask",Dipok,2017-02-27,,,,
+773,2017-03-09,1970-01-01,1970-01-01,"hide due date ",Dipok,2017-03-09,,,,
+230,2017-02-27,1970-01-01,1970-01-01,"Profile page","Demo,Mahfuz",2017-02-27,,"Complete profile page work",,
+229,2017-02-27,1970-01-01,1970-01-01,"Page active","Mahfuz,Demo",2017-02-27,,"Page menu link show like as hover design, when this active",,
+253,2017-02-27,1970-01-01,1970-01-01,"enhance task input feild",Dipok,2017-02-27,,,,
+256,2017-02-27,1970-01-01,1970-01-01,"border radius for all comment properties and attach",Dipok,2017-02-27,,,,
+254,2017-02-27,1970-01-01,1970-01-01,"remove ""Sorry no task found""",Dipok,2017-02-27,,,,
+255,2017-02-27,1970-01-01,1970-01-01,"add icon as like create new project",Dipok,2017-02-27,,,,
+161,2017-02-23,1970-01-01,1970-01-01,test,"Anwar Ali",2017-02-23,,,,
+179,2017-02-23,1970-01-01,1970-01-01,"By default sub-task should be expanded","Maher Murshed",2017-02-23,,,,
+183,2017-02-24,1970-01-01,1970-01-01,"test to do with Shawn","Maher Murshed",2017-02-24,,,,
+184,2017-02-24,1970-01-01,1970-01-01,"meet with lanlord otday","Maher Murshed",2017-02-24,,,,
+185,2017-02-24,1970-01-01,1970-01-01,"to do entry again","Maher Murshed",2017-02-24,,,,
+186,2017-02-24,1970-01-01,1970-01-01,"test again","Maher Murshed",2017-02-24,,,,
+190,2017-02-26,1970-01-01,1970-01-01,"Forgot password on log in screen ","Demo,Dipok",2017-02-26,,,,
+191,2017-02-26,1970-01-01,1970-01-01,"Remove log in options through social accounts ","Demo,Dipok",2017-02-26,,,,
+192,2017-02-26,1970-01-01,1970-01-01,"Change transition speed for section expansion ","Sujon,Maher Murshed,Sadequr Rahman,Anwar Ali,Dipok,Mahfuz,Rabbi,Manzu,Mohammad Jubayer,TestUser,Supper Admin,Mahfuz,",2017-05-31,,,,
+193,2017-02-26,1970-01-01,1970-01-01,"My Feed to have chat messages populate as well","Demo,Dipok",2017-02-26,,,,
+194,2017-02-26,1970-01-01,1970-01-01,"Add group members by pressing tab","Demo,Mahfuz",2017-02-26,,,,
+195,2017-02-26,1970-01-01,1970-01-01,"Don’t hide on clicking group name","Demo,Mahfuz",2017-02-26,,,,
+196,2017-02-26,1970-01-01,1970-01-01,"New Task should not be in blank project page","Demo,Dipok",2017-02-26,,,,
+197,2017-02-26,1970-01-01,1970-01-01,"By default sub-task should be expanded","Demo,Dipok",2017-02-26,,,,
+198,2017-02-27,1970-01-01,1970-01-01,"Subtask rows are very far from main task","Demo,Dipok",2017-02-26,,,,
+200,2017-02-26,1970-01-01,1970-01-01,"Create to-do from a chat text","Demo,Mahfuz",2017-02-26,,,,
+201,2017-02-26,1970-01-01,1970-01-01,"When chat window pop-out, background screen is not looking nice. Need some options to fix that","Demo,Mahfuz",2017-02-26,,,,
+202,2017-02-26,1970-01-01,1970-01-01,"Number of tasks to be printed on dashboard & the circle should show the progress","Demo,Dipok",2017-02-26,,,,
+203,2017-02-26,1970-01-01,1970-01-01,"Some sort of marking to show that we are on dashboard","Demo,Dipok",2017-02-26,,,,
+204,2017-02-26,1970-01-01,2017-05-31,"Add a calendar when there is no schedule. Calendar section on homepage should have option to toggle between calendar and schedule","Demo,Dipok,Sujon,Mahfuz,Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu,AA,Mohammad Jubayer,TestUser,Supper Admin,Mahfuz,,Dipok Chokrabarty",2017-05-30,,,,
+205,2017-02-26,1970-01-01,1970-01-01,"Weather section should be on right side and much smaller to make that panel smaller","Demo,Dipok",2017-02-26,,,,
+206,2017-02-26,1970-01-01,1970-01-01,"Start building up Knowledge base and then look for possibility to create an interactive help-wizard function in the protal",Demo,2017-02-26,,,,
+207,2017-02-26,1970-01-01,1970-01-01,"News feed option in My feed section for subscription","Demo,Dipok",2017-02-26,,,,
+268,2017-02-28,1970-01-01,1970-01-01,asd,Demo,2017-02-28,,,,
+223,2017-02-27,1970-01-01,1970-01-01,"make project page like dashboard while blank ",Dipok,2017-02-27,,,,
+224,2017-02-27,1970-01-01,1970-01-01,"close all new sub task input field  and open when click on button",Dipok,2017-02-27,,,,
+225,2017-02-27,1970-01-01,1970-01-01,"new task input field goes upper tools position and tools goes to breadcum right side",Dipok,2017-02-27,,,,
+226,2017-02-27,1970-01-01,1970-01-01,"add sorting for task like as todo",Dipok,2017-02-27,,,,
+227,2017-02-27,1970-01-01,1970-01-01,"update task title while update from properties",Dipok,2017-02-27,,,,
+431,2017-03-01,1970-01-01,1970-01-01,"sorting task by asignee",Dipok,2017-03-01,,,,
+302,2017-02-28,1970-01-01,1970-01-01,"border radius for create task and project button",Dipok,2017-02-28,,,,
+303,2017-02-28,1970-01-01,1970-01-01,"fix design after project delete where user can add task after delete project",Dipok,2017-02-28,,,,
+304,2017-02-28,1970-01-01,1970-01-01,"fix topbar date in task list after delte specific date range",Dipok,2017-02-28,,,,
+345,2017-02-28,1970-01-01,1970-01-01,"We need to work on Profile Page UX","Justine Diener",2017-02-28,,,,
+347,2017-02-28,1970-01-01,1970-01-01,"Test Project",,2017-02-28,,,,
+662,2017-03-07,1970-01-01,1970-01-01,"Test Task",,,,,,
+663,2017-03-07,1970-01-01,1970-01-01,ss,,,,,,
+664,2017-03-07,1970-01-01,1970-01-01,aaaaa,,,,,,
+666,2017-03-07,1970-01-01,1970-01-01,sdf,,,,,,
+682,2017-03-07,1970-01-01,1970-01-01,"sorting on subtask complete and incomplete",Dipok,2017-03-07,,,,
+359,2017-02-28,1970-01-01,1970-01-01,"test event",,2017-02-28,,,,
+361,2017-03-01,1970-01-01,1970-01-01,"Top Project title bar fix","Demo,Dipok",2017-03-01,,,,
+362,2017-03-01,1970-01-01,1970-01-01,"add task bar fix","Dipok,Demo",2017-03-01,,,,
+364,2017-03-01,1970-01-01,1970-01-01,"profile pic smaller","Demo,Dipok",2017-03-01,,,,
+365,2017-03-01,1970-01-01,1970-01-01,"transition animation slide in","Demo,Mahfuz",2017-03-01,,,,
+366,2017-03-01,1970-01-01,1970-01-01,"home button white when on dashboard","Demo,Dipok",2017-03-01,,,,
+367,2017-03-01,1970-01-01,1970-01-01,"workspace icon smaller","Demo,Dipok",2017-03-01,,,,
+368,2017-03-01,1970-01-01,1970-01-01,"sub-task middle line will not show when there is no sub-task","Demo,Dipok",2017-03-01,,,,
+369,2017-03-01,1970-01-01,1970-01-01,"sub-task count will implement as soon as I add a sub-task","Demo,Dipok",2017-03-01,,,,
+370,2017-03-01,1970-01-01,1970-01-01,"owner & member name initial as logo to be shown on project title bar","Demo,Dipok",2017-03-01,,,,
+372,2017-03-01,1970-01-01,1970-01-01,"superscript the C alphabet in weather section","Demo,Dipok",2017-03-01,,,,
+683,2017-03-07,1970-01-01,1970-01-01,"member can add auto as a project member",Dipok,2017-03-07,,,,
+389,2017-03-01,1970-01-01,1970-01-01,"Group member update and cancel button hide","Mahfuz,Demo",2017-03-01,,"Group member update and cancel button hide initially. When any change, button will be display.",,
+684,2017-03-07,1970-01-01,1970-01-01,"member can add member",Dipok,2017-03-07,,,,
+685,2017-03-07,1970-01-01,1970-01-01,"member can delete only own created",Dipok,2017-03-07,,,,
+686,2017-03-07,1970-01-01,1970-01-01,"design change on startdate ",Dipok,2017-03-07,,"startdate,duratuion,enddate,status
+",,
+687,2017-03-07,1970-01-01,1970-01-01,"delete status option",Dipok,2017-03-07,,,,
+5439,2017-05-30,1970-01-01,1970-01-01,task1,"Mahfuz,Dipok,Maher Murshed,Sadequr Rahman,Rabbi,Manzu,AA,TestUser,Supper Admin,Mohammad Jubayer,Mahfuz,,Dipok Chokrabarty",2017-05-31,,,,aaa
+400,2017-03-01,2017-05-11,2017-05-11,"UX Design, Features and Bug Review","Maher Murshed,sadequr_rahman",2017-03-26,,,,"Navigate Application Development"
+433,2017-03-01,1970-01-01,1970-01-01,"Branding & Marketing Tasks","Maher Murshed,sadequr_rahman",2017-05-25,,,,"Navigate Application Development"
+402,2017-03-01,1970-01-01,2017-05-07,"HR Tasks","Anwar Ali,David Cheung,Peter Palarchio,sadequr_rahman",2017-05-25,,,,"Navigate Application Development"
+404,2017-03-07,1970-01-01,1970-01-01,"Android App UX Design, Feature & Bug Review",sadequr_rahman,2017-04-17,,,,"Navigate Application Development"
+405,2017-03-07,1970-01-01,2017-05-08,"iOS App UX Design, Feature & Bug Review","Maher Murshed,sadequr_rahman",2017-03-23,,,,"Navigate Application Development"
+4181,2017-05-23,1970-01-01,1970-01-01,hh,"Maher Murshed,sadequr_rahman",,,,,"Navigate Application Development"
+4002,2017-05-16,1970-01-01,1970-01-01,test,"Anwar Ali,Maher Murshed,sadequr_rahman",2017-05-16,,,,"Navigate Application Development"
+453,2017-03-01,1970-01-01,1970-01-01,"profile page settings","Demo,Mahfuz",2017-03-01,,,,
+454,2017-03-01,1970-01-01,1970-01-01,"transition animation slide from left for My Feed","Demo,Mahfuz",2017-03-01,,,,
+465,2017-03-01,1970-01-01,1970-01-01,"Time sheet Flow chart needs to be created with all logics","Maher Murshed,Anwar Ali",2017-03-01,,,,
+4243,2017-05-24,1970-01-01,1970-01-01,Workshop,"Rabbi,Mohammad Jubayer",2019-02-02,,"Workshop for training.",,
+4242,2017-05-24,1970-01-01,1970-01-01,Workshop,"Rabbi,Mohammad Jubayer",2019-02-02,,"Workshop for training.",,
+4241,2017-05-24,1970-01-01,1970-01-01,Workshop,"Rabbi,Mohammad Jubayer",2019-02-02,,"Workshop for training.",,
+4240,2017-05-24,1970-01-01,1970-01-01,Workshop,"Rabbi,Mohammad Jubayer",2019-02-02,,"Workshop for training.",,
+4239,2017-05-24,1970-01-01,1970-01-01,Workshop,"Rabbi,Mohammad Jubayer",2019-02-02,,"Workshop for training.",,
+4238,2017-05-24,1970-01-01,1970-01-01,Workshop,,2019-02-02,,,,
+4237,2017-05-24,1970-01-01,1970-01-01,Workshop,,2019-02-02,,,,
+4236,2017-05-24,1970-01-01,1970-01-01,Workshop,,2019-02-02,,,,
+661,2017-03-07,1970-01-01,1970-01-01,"New task",,,,,,
+496,2017-03-02,1970-01-01,1970-01-01,"creator as super admin",Dipok,2017-03-02,,,,
+497,2017-03-02,1970-01-01,1970-01-01,"admin can add and remove only own create",Dipok,2017-03-02,,,,
+498,2017-03-02,1970-01-01,1970-01-01,"project admin can asign all task as a admin",Dipok,2017-03-02,,,,
+499,2017-03-02,1970-01-01,1970-01-01,"member can add only member",Dipok,2017-03-02,,,,
+500,2017-03-02,1970-01-01,1970-01-01,"task and subtask date 12px",Dipok,2017-03-02,,,,
+501,2017-03-02,1970-01-01,1970-01-01,"if end date null then it show another part",Dipok,2017-03-02,,,,
+503,2017-03-02,1970-01-01,1970-01-01,"remove date from task",Dipok,2017-03-02,,,,
+523,2017-03-02,1970-01-01,1970-01-01,"Capitalize first letter","Mahfuz,Demo",2017-03-02,,,,
+711,2017-03-07,1970-01-01,1970-01-01,"Todo comment point position","Mahfuz,Demo",2017-03-07,,"Point the exact comment",,
+538,2017-03-06,1970-01-01,1970-01-01,"In Project & Task properties, add admin & members line should bring list when clicked instead of pressing add button. Add button should be there for novice user.","Demo,Dipok",2017-03-05,,"In Project & Task properties, add admin & members line should bring list when clicked instead of pressing add button. Add button should be there for novice user.",,
+539,2017-03-05,1970-01-01,1970-01-01,"Sub-task add bar will go away once press ESC or click anywgere on page","Demo,Dipok",2017-03-05,,,,
+540,2017-03-05,1970-01-01,1970-01-01,"After creating a new project, stay on that project and cursor should be on new task bar","Demo,Dipok",2017-03-05,,,,
+542,2017-03-05,1970-01-01,1970-01-01,"End date should be red if that exceeds the current date","Demo,Dipok",2017-03-05,,,,
+545,2017-03-05,1970-01-01,1970-01-01,"paroject creator can add more admin for task but admin can't",Dipok,2017-03-05,,,,
+546,2017-03-06,1970-01-01,1970-01-01,"Put a plus sign right after task title to create sub-task and remove sub-task icon from panel","Dipok,Demo",2017-03-05,,"Put a plus sign right after task title to create sub-task and remove sub-task icon from panel",,
+549,2017-03-05,1970-01-01,1970-01-01,"Forgot password","Demo,Mahfuz",2017-03-05,,,,
+722,2017-03-07,1970-01-01,1970-01-01,"Chat member create and update button problem","Mahfuz,Demo",2017-03-07,,,,
+723,2017-03-07,1970-01-01,1970-01-01,"Project task comment point position","Mahfuz,Demo",2017-03-07,,"Point the exact comment",,
+726,2017-03-07,1970-01-01,1970-01-01,"Left Contacts caret-down caret-right","Mahfuz,Demo",2017-03-07,,"Left Contacts caret-down caret-right problem",,
+727,2017-03-07,1970-01-01,1970-01-01,"Todo and Project Task comment toggle ","Mahfuz,Demo",2017-03-07,,,,
+728,2017-03-07,1970-01-01,1970-01-01,"Todo and Project Task comment off on outside click","Mahfuz,Demo",2017-03-07,,,,
+731,2017-03-07,1970-01-01,1970-01-01,yyy,,2017-03-07,,,,
+732,2017-03-08,1970-01-01,1970-01-01,"Punctuation in chat message writing","Mahfuz,Demo",2017-03-08,,"after comma, letter ""i"" will be capitalized.",,
+733,2017-03-22,1970-01-01,1970-01-01,"Work space related work","Mahfuz,Demo",2017-03-08,,"Step 1 completed. Now start the revision work.",,
+739,2017-03-08,1970-01-01,1970-01-01,Test,sadequr_rahman,2017-03-08,,,,
+744,2017-03-09,1970-01-01,1970-01-01,"My Feed to have chat messages populate and quick reply as well","Mahfuz,Demo",2017-03-09,,,,
+772,2017-03-09,1970-01-01,1970-01-01,"hide all pop on out side click",Dipok,2017-03-09,,,,
+770,2017-03-09,1970-01-01,1970-01-01,"full width for all pop up",Dipok,2017-03-09,,,,
+771,2017-03-09,1970-01-01,1970-01-01,"redesign for startdate and date",Dipok,2017-03-09,,,,
+775,2017-03-09,1970-01-01,1970-01-01,"padding for popup edit",Dipok,2017-03-09,,,,
+646,2017-03-06,1970-01-01,1970-01-01,"News feed option in My feed section for subscription",Demo,2017-03-06,,,,
+658,2017-03-07,1970-01-01,1970-01-01,"add member issue",Dipok,2017-03-07,,,,
+659,2017-03-07,1970-01-01,1970-01-01,"creator get auto access on created new task and subtask",Dipok,2017-03-07,,,,
+795,2017-03-13,1970-01-01,1970-01-01,kk,"Mahfuz,Demo,Sujon,Rabbi,Dipok,Sadequr Rahman,Manzu",,,,,"New project"
+796,2017-03-13,1970-01-01,1970-01-01,"From my feed, after chat quick replay, show a send message notification","Mahfuz,Demo",2017-03-13,,,,
+798,2017-03-13,1970-01-01,1970-01-01,"Test project",,2017-03-13,,,,
+806,2017-03-13,1970-01-01,1970-01-01,1,Demo,,,,,123
+4182,2017-05-24,1970-01-01,1970-01-01,Test,"Dipok,Demo",,,,,123
+4235,2017-05-24,1970-01-01,1970-01-01,Workshop,,2019-02-02,,,,
+891,2017-03-15,1970-01-01,1970-01-01,asdasd,Demo,2017-03-31,,,,"cing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+892,2017-03-15,1970-01-01,2017-05-07,asdasd,Demo,,,,,"cing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+832,2017-03-13,1970-01-01,1970-01-01,"chat quick replay also need emotion","Mahfuz,Demo",2017-03-13,,,,
+833,2017-03-14,1970-01-01,1970-01-01,"chat quick replay need attachment","Mahfuz,Demo",2017-03-13,,,,
+834,2017-03-14,1970-01-01,1970-01-01,"if chat quick replay, replied a message, show your last replay","Mahfuz,Demo",2017-03-14,,,,
+835,2017-03-13,1970-01-01,1970-01-01,"CQR sender name clickable and open chat main window","Mahfuz,Demo",2017-03-13,,,,
+836,2017-03-13,1970-01-01,1970-01-01,"CQR sender name color change","Mahfuz,Demo",2017-03-13,,,,
+838,2017-03-14,1970-01-01,1970-01-01,"check project date while creating task give notification.",Dipok,2017-03-14,,,,
+839,2017-03-14,1970-01-01,1970-01-01,"same as for task while create subtask",Dipok,2017-03-14,,,,
+840,2017-03-14,1970-01-01,1970-01-01,"status can cancel and mark it as red and a line",Dipok,2017-03-14,,,,
+841,2017-03-14,1970-01-01,1970-01-01,"add new status from status dropdown list",Dipok,2017-03-14,,,,
+842,2017-03-14,1970-01-01,1970-01-01,"dropdown menu at subtask properties",Dipok,2017-03-14,,,,
+843,2017-03-14,1970-01-01,1970-01-01,"add subtask and properties at subtask dropdown and open input at that point",Dipok,2017-03-14,,,,
+861,2017-03-15,1970-01-01,1970-01-01,"chk status live on create task",Dipok,2017-03-15,,,,
+853,2017-03-14,1970-01-01,1970-01-01,"colorful status",Dipok,2017-03-14,,,,
+860,2017-03-15,1970-01-01,1970-01-01,"butn sharp",Dipok,2017-03-15,,,,
+862,2017-03-15,1970-01-01,1970-01-01,"selected task or sub task will be selected after a tour :-p",Dipok,2017-03-15,,,,
+863,2017-03-15,1970-01-01,1970-01-01,"no need 2nd msg on complete task or sub task",Dipok,2017-03-15,,,,
+864,2017-03-15,1970-01-01,1970-01-01,"task or sub task should be selected after complete",Dipok,2017-03-15,,,,
+875,2017-03-15,1970-01-01,1970-01-01,"member icon right side in index page",Dipok,2017-03-15,,,,
+873,2017-03-15,1970-01-01,1970-01-01,"validation on project, task, sub task delete",Dipok,2017-03-15,,,,
+2498,2017-04-25,1970-01-01,1970-01-01,"New Task changed for Test",,2017-04-25,,,,"Test project @ 2089 sd asd afsd sdf "
+2495,2017-04-24,1970-01-01,1970-01-01,"Test for story",,2017-04-24,,,,"Test project @ 2089 sd asd afsd sdf "
+2494,2017-04-24,1970-01-01,2017-05-21,ok,"Mahfuz,Dipok,AA",,,,,"Test project @ 2089 sd asd afsd sdf "
+2493,2017-04-13,1970-01-01,2017-05-21,ol,"Dipok,Mahfuz,AA",2017-06-07,,,,"Test project @ 2089 sd asd afsd sdf "
+2492,2017-03-29,1970-01-01,2017-05-21,ss,"Dipok,Mahfuz,Demo,Sadequr Rahman,TestUser,Supper Admin",2017-05-16,,,,"Test project @ 2089 sd asd afsd sdf "
+3618,2017-05-09,1970-01-01,2017-05-09,"my new task","Dipok,Sujon,Maher Murshed",2017-05-25,,,,"Test project @ 2089 sd asd afsd sdf "
+924,2017-03-15,1970-01-01,1970-01-01,"logo change",Dipok,2017-03-15,,,,
+925,2017-03-15,1970-01-01,1970-01-01,"logo color change",Dipok,2017-03-15,,,,
+926,2017-03-15,1970-01-01,1970-01-01,"div border radius in project page",Dipok,2017-03-15,,,,
+927,2017-03-15,1970-01-01,1970-01-01,"new button add in project page",Dipok,2017-03-15,,,,
+928,2017-03-16,1970-01-01,1970-01-01,"Test project from index form index page how to do this",,2017-03-16,,,,
+944,2017-03-20,1970-01-01,2017-05-08,uiou,,2017-03-20,,,,"Android Project"
+1034,2017-03-23,1970-01-01,1970-01-01,test,"Sadequr Rahman",2017-03-24,,,,"test toast1"
+2870,2017-05-08,1970-01-01,1970-01-01,"test s1","Sujon,Demo,Mahfuz,Dipok,Sadequr Rahman,Manzu,AA,Maher Murshed,Rabbi",,,,,"test toast1"
+954,2017-03-20,1970-01-01,2017-05-21,t2,"Demo,Mahfuz,Maher Murshed,Sadequr Rahman",2017-03-31,,,,toast2
+1005,2017-03-22,1970-01-01,1970-01-01,ok,"Demo,Maher Murshed,Sadequr Rahman",,,,,toast2
+1014,2017-03-22,1970-01-01,1970-01-01,oui,"Demo,Sadequr Rahman,Maher Murshed",,,,,toast2
+2629,2017-05-03,1970-01-01,1970-01-01,hh,,2017-05-03,,,,toast2
+935,2017-03-19,1970-01-01,1970-01-01,"test 2",,,,,,
+936,2017-03-19,1970-01-01,1970-01-01,"test 2",,,,,,
+937,2017-03-19,1970-01-01,1970-01-01,"test 2",,,,,,
+943,2017-03-20,1970-01-01,1970-01-01,"Chat & Feed window close, if click on outside","Mahfuz,Demo",2017-03-20,,,,
+1032,2017-03-23,1970-01-01,1970-01-01,ad,Demo,2017-03-31,,"This is test",,toast3
+1031,2017-03-23,1970-01-01,1970-01-01,fd,Demo,2017-03-31,,,,toast3
+1058,2017-03-27,1970-01-01,1970-01-01,"Test task @ 11.04","Demo,Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi",2017-03-31,,,,toast3
+2137,2017-04-26,1970-01-01,1970-01-01,Hello,Demo,,,,,toast3
+951,2017-03-20,1970-01-01,1970-01-01,aa,,,,,,
+953,2017-03-20,1970-01-01,1970-01-01,aa,,,,,,
+4199,2017-05-24,1970-01-01,1970-01-01,Test,,2017-05-24,,,,
+1016,2017-03-23,1970-01-01,1970-01-01,"do somthing",Mahfuz,2017-03-30,,,,"Android project"
+986,2017-03-22,1970-01-01,1970-01-01,"do crm Android project",,,,,,
+987,2017-03-22,1970-01-01,1970-01-01,"do crm Android project",,,,,,
+988,2017-03-22,1970-01-01,1970-01-01,"do crm Android project",,,,,,
+989,2017-03-22,1970-01-01,1970-01-01,"Workspace member active/ inactive","Mahfuz,Demo",2017-03-22,,,,
+990,2017-03-22,1970-01-01,1970-01-01,okdcd,,,,,,
+991,2017-03-22,1970-01-01,1970-01-01,ok,"Rabbi,Demo",2017-03-22,,,,
+1006,2017-03-22,1970-01-01,1970-01-01,ok,,,,,,
+1007,2017-03-22,1970-01-01,1970-01-01,ok,,,,,,
+1008,2017-03-22,1970-01-01,1970-01-01,ok,,,,,,
+1009,2017-03-22,1970-01-01,1970-01-01,ok,,,,,,
+1010,2017-03-22,1970-01-01,1970-01-01,op,Rabbi,2017-03-22,,,,
+1011,2017-03-22,1970-01-01,1970-01-01,sae,Rabbi,2017-03-22,,,,
+1013,2017-03-22,1970-01-01,1970-01-01,ok,,,,,,
+1015,2017-03-22,1970-01-01,1970-01-01,"Root admin can see workspace invited user workspace","Mahfuz,Demo",2017-03-22,,"Example:
+Mahfuz create ""itl"".
+Mahfuz invite Rabbi to join ""itl"".
+
+Then Rabbi create ""testWorkSpace"".
+Invite another.
+
+So Mahfuz can see all workspace which created by Rabbi.",,
+1035,2017-03-23,1970-01-01,1970-01-01,"Login page, Stay in option","Mahfuz,Demo",2017-03-23,,,,
+4244,2017-05-25,1970-01-01,1970-01-01,test,"Anwar Ali,sadequr_rahman",,,,,"Europe Holiday Trip "
+1039,2017-03-25,1970-01-01,1970-01-01,"Book hotel in Florence","Demo,Maher Murshed,Ken Lam,sadequr_rahman",,,,,"Europe Holiday Trip "
+1040,2017-03-25,1970-01-01,2017-05-07,"Book hotel in Amalfi Coast","Demo,sadequr_rahman",,,,,"Europe Holiday Trip "
+1041,2017-03-25,1970-01-01,1970-01-01,"Rent a car","Demo,sadequr_rahman",,,,,"Europe Holiday Trip "
+1042,2017-03-25,1970-01-01,2017-04-25,"Book flights","Demo,Maher Murshed,sadequr_rahman",,,,,"Europe Holiday Trip "
+1043,2017-03-25,1970-01-01,1970-01-01,"Check VISA requirements","Demo,sadequr_rahman",,,,,"Europe Holiday Trip "
+1044,2017-03-25,1970-01-01,1970-01-01,"Book hotel in Rome","Demo,sadequr_rahman",,,,,"Europe Holiday Trip "
+1046,2017-03-25,1970-01-01,2017-05-30,"Make restaurant reservations   ","Demo,sadequr_rahman",2017-05-22,,,,"Europe Holiday Trip "
+1047,2017-03-25,1970-01-01,1970-01-01,"Find out day trip to Capri","Demo,sadequr_rahman",,,,,"Europe Holiday Trip "
+1048,2017-03-25,1970-01-01,1970-01-01,"Where else should be visit","Demo,sadequr_rahman",,,,,"Europe Holiday Trip "
+2623,2017-05-03,1970-01-01,1970-01-01,test,"Demo,sadequr_rahman",,,,,"Europe Holiday Trip "
+1051,2017-03-25,1970-01-01,1970-01-01,"Visit showrooms with Ken","Anwar Ali",2017-03-25,,,,
+1052,2017-03-25,1970-01-01,1970-01-01,"Have ameeting with Zubai about furnitures","Anwar Ali",2017-03-25,,,,
+1053,2017-03-25,1970-01-01,1970-01-01,"Talk about Dinner tonight","Anwar Ali,Maher Murshed,Justine Diener,Cassie Scowcroft",2017-03-25,,,,
+1054,2017-03-27,1970-01-01,1970-01-01,oioi,Rabbi,2017-03-27,,,,
+1056,2017-03-27,1970-01-01,1970-01-01,"o,kk",Mahfuz,2017-03-30,,,,"Do somthing"
+2624,2017-05-03,1970-01-01,1970-01-01,aaa,"Rabbi,Mohammad Jubayer,Mahfuz,Manzu",,,,,"Test project @ 20as a as asd d89 asd"
+1066,2017-03-28,1970-01-01,2017-05-21,"New Task changed for Test","Mahfuz,Demo,Sadequr Rahman,Manzu,Rabbi,Mohammad Jubayer,AA",2017-05-31,,,,"Test project @ 20as a as asd d89 asd"
+1069,2017-03-29,1970-01-01,1970-01-01,"Test for story","Demo,Mahfuz,AA,Mohammad Jubayer",2017-08-30,,,,"Test project @ 20as a as asd d89 asd"
+1085,2017-03-29,1970-01-01,2017-05-08,"ss GGCC DD   ","Dipok,Mahfuz,AA,Mohammad Jubayer,Maher Murshed,Rabbi",2017-05-28,,,,"Test project @ 20as a as asd d89 asd"
+1203,2017-04-13,1970-01-01,1970-01-01,ol,"Dipok,Mahfuz,AA,Rabbi",2017-06-07,,,,"Test project @ 20as a as asd d89 asd"
+1245,2017-04-24,1970-01-01,1970-01-01,ok,"Mahfuz,Dipok,AA,Rabbi",,,,,"Test project @ 20as a as asd d89 asd"
+2625,2017-05-03,1970-01-01,1970-01-01,"New Task","Mahfuz,Mohammad Jubayer,Rabbi,Manzu",,,,,"Test project @ 20as a as asd d89 asd"
+2630,2017-05-03,1970-01-01,1970-01-01,tt,,2017-05-03,,,,"Test project @ 20as a as asd d89 asd"
+1168,2017-04-10,1970-01-01,1970-01-01,"Login History","Demo,Mahfuz",2017-04-10,,,,
+1063,2017-03-28,1970-01-01,1970-01-01,ok,Rabbi,2017-03-28,,,,
+1064,2017-03-28,1970-01-01,1970-01-01,ok,Rabbi,2017-03-28,,,,
+1065,2017-03-28,1970-01-01,1970-01-01,ss,Demo,2017-03-28,,,,
+1067,2017-03-29,1970-01-01,1970-01-01,sada,Dipok,2017-03-29,,,,
+1068,2017-03-29,1970-01-01,1970-01-01,sdfs,Dipok,2017-03-29,,,,
+1072,2017-03-29,1970-01-01,1970-01-01,ok,"Manzu,Rabbi,Mahfuz,Dipok,Maher Murshed",2017-03-29,,,,
+1074,2017-03-29,1970-01-01,1970-01-01,ok,Rabbi,2017-03-29,,,,
+1076,2017-03-29,1970-01-01,1970-01-01,sss,Demo,2017-03-29,,,,
+1131,2017-04-06,1970-01-01,1970-01-01,"Logo upload","Demo,Mahfuz",2017-04-06,,,,
+1080,2017-03-29,2017-05-29,2017-05-29,"Apply for VISA   ","Demo,Shawn Grainger,David Cheung,sadequr_rahman,Maher Murshed",2017-05-31,,,,"London Trip "
+1081,2017-03-29,2017-05-29,2017-05-29,"Get all required sponsor papers","Demo,sadequr_rahman,Maher Murshed",,,,,"London Trip "
+1082,2017-03-29,1970-01-01,1970-01-01,"Make a VISA appointment","Demo,sadequr_rahman,Maher Murshed",,,,,"London Trip "
+1083,2017-03-29,1970-01-01,1970-01-01,"Get price for different air tickets","Demo,sadequr_rahman,Maher Murshed",,,,,"London Trip "
+1091,2017-03-30,1970-01-01,1970-01-01,"Buy tickets","Demo,sadequr_rahman,Maher Murshed",,,,,"London Trip "
+2833,2017-05-04,1970-01-01,1970-01-01,"Book tickets","Demo,sadequr_rahman,Maher Murshed",,,,,"London Trip "
+2834,2017-05-04,1970-01-01,1970-01-01,"Check flight information","Demo,sadequr_rahman,Maher Murshed",,,,,"London Trip "
+1129,2017-04-06,1970-01-01,1970-01-01,"Home button change",Mahfuz,2017-04-06,,,,
+1130,2017-04-06,1970-01-01,1970-01-01,"Chat send & receive message design change",Mahfuz,2017-04-06,,,,
+1096,2017-04-03,1970-01-01,1970-01-01,"meeting with gp",,2017-04-11,,,,
+1097,2017-04-03,1970-01-01,1970-01-01,"meeting with gp",Rabbi,2017-05-05,,,,
+1105,2017-04-06,1970-01-01,1970-01-01,"Admin Panel to add new users and assign them roles in workspace","Mahfuz,Demo",2017-04-06,,,,
+1106,2017-04-06,1970-01-01,1970-01-01,"All transitions effect to be improved","Mahfuz,Demo",2017-04-06,,,,
+1107,2017-04-06,1970-01-01,1970-01-01,"Forgot your credential option on llogin page - mail will be sent to all available email addresses in a user profile and reset link will be provided.","Mahfuz,Demo",2017-04-06,,,,
+1108,2017-04-06,1970-01-01,1970-01-01,"All email notification templates to be finalized","Mahfuz,Demo",2017-04-06,,,,
+1109,2017-04-06,1970-01-01,1970-01-01,"Profile page format to be finalized",Demo,2017-04-06,,,,
+1110,2017-04-06,1970-01-01,1970-01-01,"Initial color scheme for the software",Demo,2017-04-06,,,,
+1111,2017-04-06,1970-01-01,1970-01-01,"Weekly Dashboard email to each user","Mahfuz,Demo",2017-04-06,,,,
+1112,2017-04-06,1970-01-01,1970-01-01,"Remove home button from top left and make another right before profile icon @ top right","Demo,Mahfuz",2017-04-06,,,,
+1113,2017-04-06,1970-01-01,1970-01-01,"Company Logo upload option and guideline to be set","Demo,Mahfuz",2017-04-06,,,,
+1114,2017-04-06,1970-01-01,1970-01-01,"Report top menu after My Files button to consolidate all available reports from our system","Demo,Sujon",2017-05-28,,,,
+1115,2017-04-06,1970-01-01,1970-01-01,"Help / assistant wizard need to be designed","Demo,Dipok",2017-04-06,,,,
+1116,2017-04-06,1970-01-01,1970-01-01,"Chat message options - formatting left-right indent, clear message should be delete message and forward a message to multi-users","Demo,Mahfuz",2017-04-06,,,,
+1117,2017-04-06,1970-01-01,1970-01-01,"Workload analysis to capture hours agaist each activity and then calculate total hours and differences","Demo,Dipok",2017-04-06,,,,
+1118,2017-04-06,1970-01-01,1970-01-01,"Supervisor filed in user prfile page to send user workload analysis",Demo,2017-04-06,,,,
+1119,2017-04-06,1970-01-01,1970-01-01,"365-days work-hour setup panel against each user","Demo,Dipok",2017-04-06,,,,
+1120,2017-04-06,1970-01-01,1970-01-01,"More News feed option","Dipok,Demo",2017-04-06,,,,
+1121,2017-04-06,1970-01-01,1970-01-01,"Refresh button on My Feed panel","Demo,Dipok",2017-04-06,,,,
+1122,2017-04-06,1970-01-01,1970-01-01,"Add/Filter Feed Channel page with Gear Icon","Demo,Dipok",2017-04-06,,,,
+1123,2017-04-06,1970-01-01,1970-01-01,"Hour(s) needed field in task & sub-task second line","Dipok,Demo",2017-04-06,,,,
+1124,2017-04-06,1970-01-01,1970-01-01,"Sub-task numbering icon needs to be fixed","Demo,Dipok",2017-04-06,,,,
+1125,2017-04-06,1970-01-01,1970-01-01,"ics invite to be sent to default email as soon as I create an event","Sadequr Rahman,Mahfuz,Dipok,Sujon,Demo",2017-05-30,,,,
+4204,2017-05-24,1970-01-01,1970-01-01,lklklkl43,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-25,,,,"timeline chk"
+4203,2017-05-24,1970-01-01,1970-01-01,jkjkjk3,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-26,,,,"timeline chk"
+4202,2017-05-24,1970-01-01,1970-01-01,k3j43,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-26,,,,"timeline chk"
+4201,2017-05-24,1970-01-01,1970-01-01,"434j3 ","Mahfuz,Dipok,Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+4200,2017-05-24,1970-01-01,1970-01-01,tthh3434343,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+4198,2017-05-24,1970-01-01,1970-01-01,tggggggggggg333333333333333333333333333333333333333333333333333333333333,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",,,,,"timeline chk"
+4197,2017-05-24,1970-01-01,1970-01-01,tffffffff111111111111111111111,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",,,,,"timeline chk"
+4196,2017-05-24,1970-01-01,1970-01-01,ttttt99999999999999999,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+4195,2017-05-24,1970-01-01,1970-01-01,t888888888888,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+4194,2017-05-24,1970-01-01,1970-01-01,t77777777777,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+4193,2017-05-24,1970-01-01,1970-01-01,t66666666666,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+4192,2017-05-24,1970-01-01,1970-01-01,t5555555555555,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+4191,2017-05-24,1970-01-01,1970-01-01,t4444444444,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+4190,2017-05-24,1970-01-01,1970-01-01,t333333333,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+4188,2017-05-24,1970-01-01,1970-01-01,task22222222222222222,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+4186,2017-05-24,1970-01-01,1970-01-01,task1111111111111111111111111111,"Sadequr Rahman,Anwar Ali,Maher Murshed,Rabbi,Manzu",2017-05-24,,,,"timeline chk"
+1152,2017-04-10,1970-01-01,2017-05-03,"Workspace member list","Demo,Mahfuz",2017-04-10,,,,
+1153,2017-04-10,1970-01-01,1970-01-01,"Role management","Demo,Mahfuz",2017-04-10,,,,
+1154,2017-04-10,2017-04-27,2017-04-27,"Profile management","Demo,Mahfuz",2017-04-10,,,,
+1155,2017-04-10,1970-01-01,2017-04-27,"Group management","Demo,Mahfuz",2017-04-10,,,,
+3600,2017-05-09,2017-05-09,2017-05-09,"Collect samples",Haque,2017-05-09,,,,
+2435,2017-04-25,1970-01-01,1970-01-01,"New Task changed for Test",,2017-04-25,,,,"Test project @ 2089"
+2432,2017-04-24,1970-01-01,1970-01-01,"Test for story",,2017-04-24,,,,"Test project @ 2089"
+2431,2017-04-24,1970-01-01,1970-01-01,ok,"Mahfuz,Dipok,AA",,,,,"Test project @ 2089"
+2430,2017-04-13,1970-01-01,1970-01-01,ol,"Dipok,Mahfuz,AA",2017-06-07,,,,"Test project @ 2089"
+2429,2017-03-29,1970-01-01,1970-01-01,ss,"Dipok,Mahfuz,AA,Mohammad Jubayer,Maher Murshed,Rabbi",2017-04-12,,,,"Test project @ 2089"
+2366,2017-03-29,1970-01-01,1970-01-01,ss,"Dipok,Mahfuz,AA,Mohammad Jubayer,Maher Murshed,Rabbi",2017-04-12,,,,"Test project @ 2089"
+2367,2017-04-13,1970-01-01,1970-01-01,ol,"Dipok,Mahfuz,AA",2017-06-07,,,,"Test project @ 2089"
+2368,2017-04-24,1970-01-01,1970-01-01,ok,"Mahfuz,Dipok,AA",,,,,"Test project @ 2089"
+2369,2017-04-24,1970-01-01,1970-01-01,"Test for story",,2017-04-24,,,,"Test project @ 2089"
+2372,2017-04-25,1970-01-01,1970-01-01,"New Task changed for Test",,2017-04-25,,,,"Test project @ 2089"
+1134,2017-04-09,1970-01-01,2017-05-08,"test 1205","Sadequr Rahman,Anwar Ali,Rabbi,Dipok,Sujon,Demo,Mahfuz,AA,Manzu,Mohammad Jubayer,TestUser,Supper Admin",2017-04-11,,,,"New Android Project"
+2291,2017-04-26,1970-01-01,1970-01-01,"New task","AA,Rabbi,Manzu,Mahfuz,Dipok",2017-05-18,,,,"New Android Project"
+2309,2017-04-25,1970-01-01,1970-01-01,"New Task changed for Test",,2017-04-25,,,,"Test project @ 2089"
+2306,2017-04-24,1970-01-01,1970-01-01,"Test for story",,2017-04-24,,,,"Test project @ 2089"
+2303,2017-03-29,1970-01-01,1970-01-01,ss,"Dipok,Mahfuz,AA,Mohammad Jubayer,Maher Murshed,Rabbi",2017-04-12,,,,"Test project @ 2089"
+2304,2017-04-13,1970-01-01,1970-01-01,ol,"Dipok,Mahfuz,AA",2017-06-07,,,,"Test project @ 2089"
+2305,2017-04-24,1970-01-01,1970-01-01,ok,"Mahfuz,Dipok,AA",,,,,"Test project @ 2089"
+2300,2016-11-30,,2016-11-30,"Ask IT to input IT budget data both Cap-Ex and recurring",,,,,,"Budget Forecast for AG"
+2301,2016-11-30,,2016-11-30,"Ask location admins to submit Cap-Ex data",,,,,,"Budget Forecast for AG"
+2299,2016-11-30,,2016-11-30,"Ask central IT to confirm the budget on Excel and get confirmation from Anwar",,,,,,"Budget Forecast for AG"
+2297,2016-11-30,,2017-02-28,"Ask IT to collect spec data from all locations","Maher Murshed",2016-12-22,,,,"Budget Forecast for AG"
+2298,2016-11-30,,2017-03-01,"Ask location wise Admin personnel to input cost category wise budget data",,2017-03-16,,,,"Budget Forecast for AG"
+2296,2016-11-30,,2017-03-29,"Collect Budget Data from all cost centers except IT budget","Maher Murshed",2017-01-26,,,,"Budget Forecast for AG"
+2293,2017-04-30,1970-01-01,1970-01-01,"430 task1",,,,,,"Budget Forecast for AG"
+2555,2017-03-29,1970-01-01,1970-01-01,ss,"Dipok,Mahfuz,AA,Mohammad Jubayer,Maher Murshed,Rabbi",2017-04-12,,,,"Test project @ 2089"
+2556,2017-04-13,1970-01-01,1970-01-01,ol,"Dipok,Mahfuz,AA",2017-06-07,,,,"Test project @ 2089"
+2557,2017-04-24,1970-01-01,1970-01-01,ok,"Mahfuz,Dipok,AA",,,,,"Test project @ 2089"
+2558,2017-04-24,1970-01-01,1970-01-01,"Test for story",,2017-04-24,,,,"Test project @ 2089"
+2561,2017-04-25,1970-01-01,1970-01-01,"New Task changed for Test",,2017-04-25,,,,"Test project @ 2089"
+2618,2017-05-02,1970-01-01,1970-01-01,"task drill 1  ","Dipok,Rabbi",2017-05-24,,,,"drill test "
+2619,2017-05-02,2017-05-09,2017-05-14,"task drill 2 this is goo ",,2017-05-08,,,,"drill test "
+3577,2017-05-09,1970-01-01,2017-05-29,"Test   ","Sujon,Dipok,Rabbi",2017-05-22,,,,"drill test "
+2964,2017-05-09,1970-01-01,1970-01-01,"task drill 3","Dipok,Rabbi",2017-05-24,,,,"drill test "
+2632,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2633,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2634,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2635,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2636,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2637,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2638,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2639,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2640,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2641,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2642,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2643,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2644,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2645,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2646,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2647,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2648,2017-04-25,2017-04-25,2017-05-03,May-03-2017,,1970-01-01,,,,
+2649,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2650,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2651,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2652,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2653,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2654,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2655,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2656,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2657,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2658,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2659,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2660,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2661,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2662,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2663,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2664,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2665,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2666,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2667,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2668,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2669,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2670,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2671,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2672,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2673,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2674,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2675,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2676,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2677,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2678,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2679,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2680,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2681,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2682,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2683,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2684,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2685,2017-05-03,,1970-01-01,Jan-01-1970,,,,,,
+2686,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2687,2017-04-24,2017-04-24,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2688,2017-04-24,2017-04-24,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2689,2017-05-03,,1970-01-01,Jan-01-1970,,,,,,
+2690,2017-04-24,,1970-01-01,Jan-01-1970,,,,,,
+2691,2017-04-13,2017-06-07,1970-01-01,Jan-01-1970,,,,,,
+2692,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2693,2017-03-29,2017-04-12,1970-01-01,Jan-01-1970,,,,,,
+2695,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2696,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2697,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2698,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2699,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2700,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2701,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2702,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2703,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2704,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2705,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2706,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2707,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2708,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2709,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2710,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2711,2017-04-25,2017-04-25,2017-05-03,May-03-2017,,1970-01-01,,,,
+2712,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2713,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2714,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2715,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2716,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2717,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2718,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2719,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2720,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2721,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2722,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2723,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2724,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2725,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2726,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2727,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2728,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2729,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2730,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2731,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2732,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2733,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2734,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2735,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2736,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2737,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2738,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2739,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2740,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2741,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2742,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2743,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2744,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2745,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2746,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2747,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2748,2017-05-03,,1970-01-01,Jan-01-1970,,,,,,
+2749,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2750,2017-04-24,2017-04-24,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2751,2017-04-24,2017-04-24,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2752,2017-05-03,,1970-01-01,Jan-01-1970,,,,,,
+2753,2017-04-24,,1970-01-01,Jan-01-1970,,,,,,
+2754,2017-04-13,2017-06-07,1970-01-01,Jan-01-1970,,,,,,
+2755,2017-04-25,2017-04-25,1970-01-01,Jan-01-1970,,1970-01-01,,,,
+2756,2017-03-29,2017-04-12,1970-01-01,Jan-01-1970,,,,,,
+3555,2017-05-09,1970-01-01,1970-01-01,test,,2017-05-09,,,,
+2831,2017-05-04,1970-01-01,1970-01-01,,,2017-05-02,,,,
+2832,2017-05-04,1970-01-01,1970-01-01,,,2017-05-02,,,,
+2843,2017-05-07,1970-01-01,1970-01-01,"Top Title length should be longer","Demo,Sadequr Rahman",2017-05-07,,,,
+2844,2017-05-07,1970-01-01,1970-01-01,"list should be called Task List","Demo,Sadequr Rahman",2017-05-07,,,,
+2845,2017-05-07,1970-01-01,1970-01-01,"Status color should be shown as it is and Capitalized as per screen value","Demo,Sadequr Rahman",2017-05-07,,,,
+2846,2017-05-07,1970-01-01,1970-01-01,"Top Title length should be longer","Demo,Sadequr Rahman",2017-05-07,,,,
+2847,2017-05-07,1970-01-01,1970-01-01,"list should be called Task List","Demo,Sadequr Rahman",2017-05-07,,,,
+2848,2017-05-07,1970-01-01,1970-01-01,"Status color should be shown as it is and Capitalized as per screen value","Demo,Sadequr Rahman",2017-05-07,,,,
+2849,2017-05-07,1970-01-01,1970-01-01,"Project properties should have a Status Update container and will record all project log, no message/chat section required ","Demo,Sadequr Rahman",2017-05-07,,,,
+2850,2017-05-07,1970-01-01,1970-01-01,"Export & Delete buttons should be moved to header section as big icons","Demo,Sadequr Rahman",2017-05-07,,,,
+2851,2017-05-07,1970-01-01,1970-01-01,"Project header member/status line should be same like task line","Demo,Sadequr Rahman",2017-05-07,,,,
+2852,2017-05-07,1970-01-01,1970-01-01,"Add subtask button in Task line should be right before option button on right side","Demo,Sadequr Rahman",2017-05-07,,,,
+2853,2017-05-07,1970-01-01,1970-01-01,"People icon should be squarish instead of roundish","Demo,Sadequr Rahman",2017-05-07,,,,
+2854,2017-05-07,1970-01-01,1970-01-01,"Date/Status button pop-ups should have esc & cross to exit","Demo,Sadequr Rahman",2017-05-07,,,,
+2861,2017-03-23,1970-01-01,1970-01-01,"do somthing",,2017-03-26,,,,"Android project"
+3592,2017-05-09,1970-01-01,2017-05-09,"Test the Product",Mahfuz,,,,,"Launching of the Product"
+3593,2017-05-09,2017-05-09,2017-05-09,"Confirm a PR agency",Mahfuz,,,,,"Launching of the Product"
+3594,2017-05-09,1970-01-01,1970-01-01,"Confirm the Guest list",Mahfuz,,,,,"Launching of the Product"
+3595,2017-05-09,1970-01-01,2017-05-09,"Take care of the payments",Mahfuz,,,,,"Launching of the Product"
+3601,2017-05-09,1970-01-01,2017-05-09,"Call Production Manager",Haque,2017-05-09,,,,
+3602,2017-05-09,1970-01-01,1970-01-01,"test api",Demo,2017-05-09,,,,
+3663,2017-05-15,1970-01-01,1970-01-01,"Conduct a Survey",,2017-05-15,,"Related to the product launch",,
+3634,2017-05-11,1970-01-01,2017-05-16,"Make different ","Mahfuz,sadequr_rahman,Haque",2017-05-31,,,,"Documentation of the product"
+3635,2017-05-11,1970-01-01,1970-01-01,"make different sections",Mahfuz,2017-06-08,,,,"Documentation of the product"
+3636,2017-05-11,1970-01-01,1970-01-01,"Make the content",Mahfuz,,,,,"Documentation of the product"
+3637,2017-05-11,1970-01-01,1970-01-01,Editing,Mahfuz,,,,,"Documentation of the product"
+3630,2017-05-11,1970-01-01,2017-05-11,"Confirm the developer","Mahfuz,sadequr_rahman",,,,,"Confirming the project site"
+3631,2017-05-11,2017-05-11,2017-05-11,"Visit the sites",Mahfuz,,,,,"Confirming the project site"
+3632,2017-05-11,1970-01-01,2017-05-11,"Price negotiation",Mahfuz,,,,,"Confirming the project site"
+3648,2017-05-14,1970-01-01,1970-01-01,"Assign the sub-tasks",Haque,2017-05-14,,,,"Confirming the project site"
+3643,2017-05-14,2017-05-14,2017-05-14,"task 1",,2017-05-31,,,,"dashboard check"
+3644,2017-05-14,2017-05-14,2017-05-14,"task 2 ",,2017-05-20,,,,"dashboard check"
+3645,2017-05-14,1970-01-01,1970-01-01,task3,,2017-05-29,,,,"dashboard check"
+3649,2017-05-14,1970-01-01,1970-01-01,"Meeting with the Manager",,2017-05-14,,,,
+3650,2017-05-14,1970-01-01,1970-01-01,"Meeting with the Manager",,2017-05-14,,,,
+3651,2017-05-14,1970-01-01,1970-01-01,"Meeting with the Manager",,2017-05-14,,,,
+3652,2017-05-14,1970-01-01,1970-01-01,"Meeting with the Manager",,2017-05-14,,,,
+3653,2017-05-14,1970-01-01,1970-01-01,"Meeting with the Manager",,2017-05-14,,,,
+3654,2017-05-14,1970-01-01,1970-01-01,"Meeting with the Manager",,2017-05-14,,,,
+3655,2017-05-14,1970-01-01,1970-01-01,"Meeting with the Manager",,2017-05-14,,,,
+3656,2017-05-14,1970-01-01,1970-01-01,"Meeting with the Manager",,2017-05-14,,,,
+4056,2017-05-17,1970-01-01,2017-05-17,"task1 ",,2017-06-30,,,,"gantt check"
+4057,2017-05-17,1970-01-01,1970-01-01,task2,,,,,,"gantt check"
+4058,2017-05-17,1970-01-01,1970-01-01,task3,,,,,,"gantt check"
+4068,2017-05-18,1970-01-01,1970-01-01,aa,,,,,,"gantt check"
+4069,2017-05-18,1970-01-01,1970-01-01,sa`121`1';/.asd,,,,,,"gantt check"
+4070,2017-05-18,1970-01-01,1970-01-01,sa,,,,,,"gantt check"
+3869,2017-04-27,,2017-04-27,,,,,,,
+3870,2017-04-27,,2017-04-27,,,,,,,
+3871,2017-04-27,,2017-04-27,,,,,,,
+3872,2017-04-27,,2017-04-27,,,,,,,
+3873,2017-04-27,,2017-04-27,,,,,,,
+3874,2017-04-27,,2017-04-27,,,,,,,
+3875,2017-04-27,,2017-04-27,,,,,,,
+3876,2017-04-27,,2017-04-27,,,,,,,
+3877,2017-04-27,,2017-04-27,,,,,,,
+3991,2017-04-27,,2017-04-27,,,,,,,
+3992,2017-04-27,,2017-04-27,,,,,,,
+3993,2017-04-27,,2017-04-27,,,,,,,
+3994,2017-04-27,,2017-04-27,,,,,,,
+3995,2017-04-27,,2017-04-27,,,,,,,
+3996,2017-04-27,,2017-04-27,,,,,,,
+3997,2017-04-27,,2017-04-27,,,,,,,
+3998,2017-04-27,,2017-04-27,,,,,,,
+3999,2017-04-27,,2017-04-27,,,,,,,
+4126,2017-05-22,1970-01-01,1970-01-01,task4,,,,,,"timeline check"
+4072,2017-05-18,1970-01-01,1970-01-01,task1,,,,,,"timeline check"
+4073,2017-05-18,1970-01-01,1970-01-01,task2,,,,,,"timeline check"
+4074,2017-05-18,1970-01-01,1970-01-01,task3,,,,,,"timeline check"
+4076,2017-05-21,1970-01-01,1970-01-01,"test reply <div><br></div>",Demo,2017-05-21,,,,
+4077,2017-05-21,1970-01-01,1970-01-01,"new to do",Demo,2017-05-21,,,,
+4078,2017-05-21,1970-01-01,1970-01-01,"test todo",Demo,2017-05-21,,,,
+4114,2017-05-22,1970-01-01,1970-01-01,Task2,,,,,,"Share Projects"
+4115,2017-05-22,1970-01-01,1970-01-01,Task3,"Mahfuz,",,,,,"Share Projects"
+4116,2017-05-22,1970-01-01,1970-01-01,Task4,,,,,,"Share Projects"
+4091,2017-05-21,1970-01-01,1970-01-01,"Share Task1",,,,,,"Share Projects"
+4462,2017-03-13,1970-01-01,1970-01-01,kk,"Mahfuz,Demo,Sujon,Rabbi,Dipok,Sadequr Rahman,Manzu",,,,,"New project"
+5556,2017-05-31,1970-01-01,1970-01-01,asdasdasd,,,,,,"People of the areas suffered most as the cyclonic storm made land fall at Kutubdia in Cox's Bazar. Saint Martin's union parishad member Habibur Rahman Khan told Prothom Alo that the destruction began at  "
+4832,2017-05-29,1970-01-01,1970-01-01,"Test Task @ 11.02 Test Task @ 11.02 Test Task @ 11.02 Test Task @ 11.02 Test Task @ 11.02 Test Task @ 11.02 Test Task @ 11.02",Mahfuz,,,,,"People of the areas suffered most as the cyclonic storm made land fall at Kutubdia in Cox's Bazar. Saint Martin's union parishad member Habibur Rahman Khan told Prothom Alo that the destruction began at  "
+4967,2017-04-25,1970-01-01,1970-01-01,"New Task changed for Test",,2017-04-25,,,,"Test project @ 2089"
+5023,2017-04-24,1970-01-01,1970-01-01,"Test for story",,2017-04-24,,,,"Test project @ 2089"
+5026,2017-03-29,1970-01-01,1970-01-01,ss,"Dipok,Mahfuz,AA,Mohammad Jubayer,Maher Murshed,Rabbi",2017-04-12,,,,"Test project @ 2089"
+5027,2017-04-13,1970-01-01,1970-01-01,ol,"Dipok,Mahfuz,AA,Rabbi",2017-06-07,,,,"Test project @ 2089"
+5028,2017-04-24,1970-01-01,1970-01-01,ok,"Mahfuz,Dipok,AA,Rabbi",,,,,"Test project @ 2089"
+4838,2017-05-29,1970-01-01,1970-01-01,"asdasd sd asd as d asd ","Dipok,Mahfuz",,,,,"asd asdasd"
+5081,2017-05-02,1970-01-01,1970-01-01,"task drill 1",,2017-05-02,,,,"drill test"
+5083,2017-05-02,1970-01-01,1970-01-01,"task drill 2",Dipok,2017-05-08,,,,"drill test"
+5084,2017-05-09,1970-01-01,1970-01-01,"task drill 3",Dipok,2017-05-11,,,,"drill test"
+5188,2017-04-25,1970-01-01,1970-01-01,"New Task changed for Test",,2017-04-25,,,,"Test project @ 2089"
+5244,2017-04-24,1970-01-01,1970-01-01,"Test for story",,2017-04-24,,,,"Test project @ 2089"
+5247,2017-03-29,1970-01-01,1970-01-01,ss,"Dipok,Mahfuz,AA,Mohammad Jubayer,Maher Murshed,Rabbi",2017-04-12,,,,"Test project @ 2089"
+5248,2017-04-13,1970-01-01,1970-01-01,ol,"Dipok,Mahfuz,AA,Rabbi",2017-06-07,,,,"Test project @ 2089"
+5249,2017-04-24,1970-01-01,1970-01-01,ok,"Mahfuz,Dipok,AA,Rabbi",,,,,"Test project @ 2089"
+5251,2017-04-25,1970-01-01,1970-01-01,"New Task changed for Test",,2017-04-25,,,,"Test project @ 2089"
+5307,2017-04-24,1970-01-01,1970-01-01,"Test for story",,2017-04-24,,,,"Test project @ 2089"
+5310,2017-03-29,1970-01-01,1970-01-01,ss,"Dipok,Mahfuz,AA,Mohammad Jubayer,Maher Murshed,Rabbi",2017-04-12,,,,"Test project @ 2089"
+5311,2017-04-13,1970-01-01,1970-01-01,ol,"Dipok,Mahfuz,AA,Rabbi",2017-06-07,,,,"Test project @ 2089"
+5312,2017-04-24,1970-01-01,1970-01-01,ok,"Mahfuz,Dipok,AA,Rabbi",,,,,"Test project @ 2089"
+5314,2017-04-25,1970-01-01,1970-01-01,"New Task changed for Test",,2017-04-25,,,,"Test project @ 2089"
+5370,2017-04-24,1970-01-01,1970-01-01,"Test for story",,2017-04-24,,,,"Test project @ 2089"
+5373,2017-03-29,1970-01-01,1970-01-01,ss,"Dipok,Mahfuz,AA,Mohammad Jubayer,Maher Murshed,Rabbi",2017-04-12,,,,"Test project @ 2089"
+5374,2017-04-13,1970-01-01,1970-01-01,ol,"Dipok,Mahfuz,AA,Rabbi",2017-06-07,,,,"Test project @ 2089"
+5375,2017-04-24,1970-01-01,1970-01-01,ok,"Mahfuz,Dipok,AA,Rabbi",,,,,"Test project @ 2089"
+5377,2017-04-25,1970-01-01,1970-01-01,"New Task changed for Test",,2017-04-25,,,,"Test project @ 2089"
+5433,2017-04-24,1970-01-01,1970-01-01,"Test for story",,2017-04-24,,,,"Test project @ 2089"
+5436,2017-03-29,1970-01-01,1970-01-01,ss,"Dipok,Mahfuz,AA,Mohammad Jubayer,Maher Murshed,Rabbi",2017-04-12,,,,"Test project @ 2089"
+5437,2017-04-13,1970-01-01,1970-01-01,ol,"Dipok,Mahfuz,AA,Rabbi",2017-06-07,,,,"Test project @ 2089"
+5438,2017-04-24,1970-01-01,1970-01-01,ok,"Mahfuz,Dipok,AA,Rabbi",,,,,"Test project @ 2089"
+5542,2017-05-30,2017-05-30,2017-05-30,new,"Sujon,Dipok,Manzu,Rabbi,AA,Mohammad Jubayer,TestUser,Supper Admin,Sadequr Rahman,Anwar Ali,Mahfuz,Demo,Maher Murshed,Mahfuz,,Dipok Chokrabarty",2017-05-30,,,,
+5544,2017-05-30,1970-01-01,1970-01-01,Test,"Anwar Ali,sadequr_rahman",2017-05-30,,,,
+5558,2017-05-31,1970-01-01,1970-01-01,"Concept and Design",,2017-06-15,,,,"Project ABC, New York"
+5559,2017-05-31,1970-01-01,1970-01-01,"Finalize Location",,2017-06-19,,,,"Project ABC, New York"
+5560,2017-05-31,1970-01-01,1970-01-01,"Business plan",,2017-06-26,,,,"Project ABC, New York"
+5561,2017-05-31,1970-01-01,1970-01-01,"Construction Schedule",,,,,,"Project ABC, New York"
+5562,2017-05-31,1970-01-01,1970-01-01,"Marketing, PR & Communication",,,,,,"Project ABC, New York"
+5563,2017-05-31,1970-01-01,1970-01-01,Recruitment,,,,,,"Project ABC, New York"
+5564,2017-05-31,1970-01-01,1970-01-01,"Procurement & Inventory",,,,,,"Project ABC, New York"
+5565,2017-05-31,1970-01-01,1970-01-01,"Pre-opening activities",,,,,,"Project ABC, New York"

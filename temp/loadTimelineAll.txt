@@ -1,0 +1,6 @@
+SELECT pt.Startdate ts,ptsub.Startdate st
+      
+      FROM crm_activity pt
+      left join crm_activity ptsub on pt.Id = ptsub.HasParentId
+      where pt.HasParentId='4071' 
+      

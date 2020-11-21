@@ -1,0 +1,6 @@
+SELECT *
+        
+        FROM crm_modcomments AS cmd 
+        
+        WHERE cmd.`typeID` = '399' 
+        order by cmd.`date` DESC LIMIT 1

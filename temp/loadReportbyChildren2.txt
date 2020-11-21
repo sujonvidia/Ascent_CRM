@@ -1,0 +1,9 @@
+SELECT  pt.*
+       
+        FROM crm_activity AS pt 
+        left join crm_activity pt2 on pt2.HasParentId = pt.Id
+        
+        WHERE (pt.`HasParentId` = '4055')
+        
+        GROUP BY pt.Startdate
+        order by pt.`Startdate`
